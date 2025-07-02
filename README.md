@@ -47,7 +47,7 @@
 
 ---
 
-## ☎️ Liên hệ cho vui (chứ không nhận job 😅)
+## ☎️ Liên hệ cho vui 
 
 <p align="center">
   <a href="mailto:longha346@gmail.com">
