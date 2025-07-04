@@ -18,7 +18,7 @@
 
 ---
 
-## 📫 Contact
+## 📫
 <pre>
 📧 longha346@gmail.com
 </pre>
