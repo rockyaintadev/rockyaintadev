@@ -7,7 +7,7 @@
 
 ---
 
-## 🧰 Tools I Use
+## 🧰 
 <pre>
 🛠️ PHP  
 🎨 HTML / CSS  
@@ -24,7 +24,3 @@
 </pre>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="250"/>
-</p>
